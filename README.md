@@ -14,7 +14,7 @@ The data in this data set was collected between October 2024 and December 2024. 
 
 ***Data Set Structure***
 
-
+![Alt text](/data_example.jpg "Example Data")
 
 ***Online Repository Link***
 You can download or access the dataset from the following repository:
